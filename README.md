@@ -10,4 +10,16 @@ Welcome to our **ShoeKart E-commerce shop.** Shoekart is an E-commerce platform 
 -	Contribution 
 -	Contact
   ---
-
+## 🛠️ Features
+-	**Product Catalog:** Browse a variety of shoes with images, descriptions, and pricing.
+-	**Interactive Shopping Cart:** Add items to the cart, adjust quantities, and remove products.
+-	**Dynamic Content:** Product data is loaded and rendered dynamically using JavaScript.
+-	**Responsive Design:** The layout is optimized for a seamless experience on both desktop and mobile devices.
+-	**Smooth User Experience:** Interactive elements are powered by JavaScript and modern CSS.
+---
+## </> Technologies Used
+ 🎯**Frontend**
+-	**HTML5:** For the website's structure and semantic markup.
+-	**CSS:** For styling, including Flexbox for a responsive layout and smooth animations.
+-	**JavaScript:** For all interactive functionalities, including shopping cart logic and dynamic content updates
+---
