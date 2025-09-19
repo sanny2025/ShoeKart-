@@ -9,7 +9,7 @@ Welcome to our **ShoeKart E-commerce shop.** Shoekart is an E-commerce platform 
 -	Tools
 -	Contribution 
 -	Contact
-  ---
+---
 ## 🛠️ Features
 -	**Product Catalog:** Browse a variety of shoes with images, descriptions, and pricing.
 -	**Interactive Shopping Cart:** Add items to the cart, adjust quantities, and remove products.
@@ -23,3 +23,12 @@ Welcome to our **ShoeKart E-commerce shop.** Shoekart is an E-commerce platform 
 -	**CSS:** For styling, including Flexbox for a responsive layout and smooth animations.
 -	**JavaScript:** For all interactive functionalities, including shopping cart logic and dynamic content updates
 ---
+## ⚙️ Tools
+- **Git**
+- **Github**
+- **Vscode**
+---
+## ☎️ Contact
+- 🖂 **Email:** sayedsanny045@gmail.com
+- 🖂 **Email:** jhrifat10@gmail.com
+
