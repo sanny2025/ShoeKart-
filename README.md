@@ -7,7 +7,7 @@ Welcome to our **ShoeKart E-commerce shop.** Shoekart is an E-commerce platform 
 - Features
 - Technologies Used
 -	Tools
--	Contribution 
+-	Contributions 
 -	Contact
 ---
 ## 🛠️ Features
@@ -19,14 +19,17 @@ Welcome to our **ShoeKart E-commerce shop.** Shoekart is an E-commerce platform 
 ---
 ## </> Technologies Used
  🎯**Frontend**
--	**HTML5:** For the website's structure and semantic markup.
--	**CSS:** For styling, including Flexbox for a responsive layout and smooth animations.
--	**JavaScript:** For all interactive functionalities, including shopping cart logic and dynamic content updates
+-	**HTML5:** For the website's structure and content..
+-	**CSS:** For styling and design, including Flexbox and Grid for a responsive layout.
+-	**JavaScript:** For all interactive functionalities, including shopping cart logic and dynamic content. To manage all interactive features, such as adding items to the cart and updating the display.
 ---
 ## ⚙️ Tools
 - **Git**
 - **Github**
 - **Vscode**
+---
+## 🏆 Contributions
+- Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 ---
 ## ☎️ Contact
 - 🖂 **Email:** sayedsanny045@gmail.com
